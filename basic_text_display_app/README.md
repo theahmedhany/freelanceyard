@@ -1,16 +1,14 @@
-# basic_text_display_app
+# Basic Text Display App
 
-A new Flutter project.
+A simple Flutter application that displays a predefined text string with basic animations.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Displays a welcome message.
+- Includes fade-in and slide-up animations for the text.
+- Clean and minimalistic UI.
+- Responsive design for different screen sizes.
 
-A few resources to get you started if this is your first Flutter project:
+## App Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](https://github.com/user-attachments/assets/fffecd3a-a22a-4601-89d2-4b3dd8da1089)
